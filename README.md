@@ -4,7 +4,7 @@ This Python program will collect COVID-19 worldwide stats and send it to your mo
 
 ### SMS Notification
 <p align="center">
-  <img src="https://jixjiastorage.blob.core.windows.net/blog-resources/covid19-monitoring-stats/demo.gif" width="500">
+  <img src="https://jixjiastorage.blob.core.windows.net/blog-resources/covid19-monitoring-stats/demo-half.gif" width="400">
 </p>
 
 

@@ -2,13 +2,13 @@
 
 This Python program will collect COVID-19 worldwide stats and send it to your mobile phone in text message.
 
-### SMS Notification
+### Demo
 
 <p align="center">
   <img src="https://jixjiastorage.blob.core.windows.net/blog-resources/covid19-monitoring-stats/demo-half.gif" width="400">
 </p>
 
-### 1) Twilio Account
+### Twilio Account
 
 You will need your own _Twilio phone number_, _Account SID_ and _Authentication Token_ in order to send SMS using [Twilio API](https://www.twilio.com/). Fill in the credentials to `config.py` file under the following section:
 
@@ -19,7 +19,7 @@ ACCOUNT_SID = '{YOUR_ACCOUNT_SID}'
 AUTH_TOKEN = '{YOUR_AUTH_TOKEN}'
 ```
 
-### 2) Choose Countries
+### Choose Countries
 
 You can configure which countries' stats to include in the SMS message. Add the list of desired countries in `config.py` file like below:
 

@@ -4,8 +4,9 @@ Date:           19-Feb-2020
 Version:        1.0
 
 Description:
-This program collects COVID-19 worldwide stats from https://www.worldometers.info/coronavirus/ 
-and send updates to desired mobile phone in SMS
+This program collects COVID-19 worldwide stats from
+https://www.worldometers.info/coronavirus/ and send updates to desired
+mobile phone in SMS
 '''
 from bs4 import BeautifulSoup
 import requests

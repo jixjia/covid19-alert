@@ -36,7 +36,7 @@ for elem in enumerate(stats):
     results[keys[elem[0]]] = value
 
 # Extract country breakdown
-table = soup.find('table', attrs={'id': 'table3'})
+table = soup.find('table', attrs={'id': 'main_table_countries'})
 table_body = table.find('tbody')
 rows = table_body.find_all('tr')
 

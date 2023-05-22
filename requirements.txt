@@ -1,4 +1,4 @@
 beautifulsoup4==4.6.3
 twilio==6.35.4
 azure-functions==1.0.8
-requests==2.23.0
+requests==2.31.0
